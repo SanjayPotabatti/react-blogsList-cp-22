@@ -1,1 +1,16 @@
 /* Write your CSS code here */
+.personHeading {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+}
+.profileImg {
+  width: 50px;
+}
+.profilePara {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: bold;
+}

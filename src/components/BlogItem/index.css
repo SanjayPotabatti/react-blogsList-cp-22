@@ -1,1 +1,22 @@
 /* Write your CSS code here */
+.listItemContainer {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+.blogDescription {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: bold;
+}
+.blogHeading {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+}
+.hrStyling {
+  border: solid 1px #9aa5b1;
+  width: 100% !important;
+}
